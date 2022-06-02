@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrispmkii",
+    "port": "COM7",
+    "sketch": "src\\Arduino\\IoT-SoundDetector\\IoT-SoundDetector.ino"
+}
