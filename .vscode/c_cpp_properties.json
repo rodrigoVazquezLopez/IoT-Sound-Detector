@@ -19,6 +19,9 @@
                 "D:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs",
                 "D:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src",
                 "D:\\Documents\\Arduino\\libraries\\RF24",
+                "D:\\Documents\\Arduino\\libraries\\LinkedList",
+                "D:\\Documents\\Arduino\\libraries\\Gaussian",
+                "D:\\Program Files (x86)\\Arduino\\libraries\\MsgPackMap",
                 "d:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include",
                 "d:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include-fixed",
                 "d:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include"
