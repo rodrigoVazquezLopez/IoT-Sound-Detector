@@ -35,7 +35,7 @@ rf24.read( function (data,items) {
 		if(data[i].pipe == pipe1) {
 			// data[i].data will contain a buffer with the data
 			bufferPipe1 = data[i].data;
-			//console.log(data[i].data);
+			console.log(data[i].data);
 			console.log('Message from dir:%s', direction1);
 			msgPipe1 = msgpack.decode(bufferPipe1)
 			console.log(msgPipe1);

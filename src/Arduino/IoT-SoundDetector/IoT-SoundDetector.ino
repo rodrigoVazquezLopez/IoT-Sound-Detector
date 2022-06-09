@@ -26,7 +26,7 @@ enum states
 byte msgPackbuffer[32];
 float dbA;
 int actualState = BEGIN, nextState = IDLE, sampCnt = 0;
-byte nodeDirection[] = "3node";
+byte nodeDirection[] = "1Node";
 char sonometerID[] = "0001";
 
 RF24 radio(nrf_ce, nrf_csn);
@@ -68,6 +68,7 @@ void loop()
         break;
 
     case SAMP:
+        delay(125);
         dbA = readDBA();
         Serial.println(dbA);
         myAverage.add(dbA);      
@@ -87,6 +88,7 @@ void loop()
         msgdata.addFloat("dBA", myAverage.mean);
         msgdata.printRawData();
         radio.write(&msgdata, 32);
+        delay(1000);
         nextState = IDLE;
         break;
 
