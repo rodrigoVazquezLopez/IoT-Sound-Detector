@@ -87,8 +87,8 @@ void loop()
         msgdata.addString("Id:", sonometerID);
         msgdata.addFloat("dBA", myAverage.mean);
         msgdata.printRawData();
-        radio.write(&msgdata, 32);
-        delay(1000);
+        radio.write(&msgPackbuffer, 32);
+        delay(3500);
         nextState = IDLE;
         break;
 

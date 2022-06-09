@@ -29,6 +29,10 @@ var bufferPipe2 = Buffer.alloc(32);
 var bufferPipe3 = Buffer.alloc(32);
 
 var msgPipe1;
+var msgPipe2;
+var msgPipe3;
+
+var data = [];
   
 rf24.read( function (data,items) {
 	for(var i=0;i<items;i++) {
@@ -39,6 +43,7 @@ rf24.read( function (data,items) {
 			console.log('Message from dir:%s', direction1);
 			msgPipe1 = msgpack.decode(bufferPipe1)
 			console.log(msgPipe1);
+			data.push(msgPipe1);
 			sendToThingSpeak(msgPipe1, tsChannel);
 			writeToDB(msgPipe1, "noise")
 		} else if (data[i].pipe == pipe2) {
