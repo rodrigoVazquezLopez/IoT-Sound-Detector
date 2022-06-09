@@ -27,6 +27,7 @@ byte msgPackbuffer[32];
 float dbA;
 int actualState = BEGIN, nextState = IDLE, sampCnt = 0;
 byte nodeDirection[] = "3node";
+char sonometerID[] = "0001";
 
 RF24 radio(nrf_ce, nrf_csn);
 GaussianAverage myAverage(MAX_SAMPLES);
@@ -34,7 +35,7 @@ MsgPackMap msgdata(msgPackbuffer, 32);
 
 void setup()
 {
-    pinMode(sen12642_env, INPUT);
+    pinMode(sen12642_gate, INPUT);
     Serial.begin(9600);
     msgdata.setStream(Serial);
     printf_begin();
@@ -82,6 +83,7 @@ void loop()
         Serial.print("Gauss average: ");
         Serial.println(myAverage.mean);
         msgdata.beginMap();
+        msgdata.addString("Id:", sonometerID);
         msgdata.addFloat("dBA", myAverage.mean);
         msgdata.printRawData();
         radio.write(&msgdata, 32);
