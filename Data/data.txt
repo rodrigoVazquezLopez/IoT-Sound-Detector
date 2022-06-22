@@ -1,0 +1,3266 @@
+58.41,58.41,59.14,58.65,59.14,58.65,58.90,58.41,58.90,58.41,58.90,58.41,58.65,58.41,58.65,58.41,60.85,60.61,60.12,59.63,60.12,59.63,59.63,59.63,63.29,59.63,59.63,60.12,59.63,59.63,59.63,60.36,59.63,59.87,59.63,60.36,60.12,59.87,60.61,60.85,64.03,61.09,60.85,60.85,64.03,60.85,61.09,61.34,61.09,61.58,60.61,61.09,62.81,60.85,60.85,61.09,63.78,60.85,61.09,61.83,61.58,61.34,61.58,61.83,65.00,61.34,61.58,61.58,61.83,61.58,62.07,61.58,61.58,62.07,61.58,61.58,62.07,61.58,61.58,62.07,60.12,60.12,60.12,59.87,60.12,59.87,60.12,60.12,60.36,59.87,59.63,59.87,59.63,59.63,61.09,
+Gauss average: 60.53
+81 A3 64 42 41 CA 42 72 22 D7 
+62.32
+Gauss average: 60.58
+81 A3 64 42 41 CA 42 72 4C FD 
+65.74
+Gauss average: 60.65
+81 A3 64 42 41 CA 42 72 9C 05 
+60.36
+Gauss average: 60.67
+81 A3 64 42 41 CA 42 72 A9 30 
+60.61
+Gauss average: 60.69
+81 A3 64 42 41 CA 42 72 BE 41 
+59.63
+Gauss average: 60.69
+81 A3 64 42 41 CA 42 72 C3 86 
+60.12
+Gauss average: 60.71
+81 A3 64 42 41 CA 42 72 D3 54 
+60.12
+Gauss average: 60.72
+81 A3 64 42 41 CA 42 72 E0 7D 
+61.34
+Gauss average: 60.75
+81 A3 64 42 41 CA 42 73 00 1C 
+61.09
+Gauss average: 60.77
+81 A3 64 42 41 CA 42 73 17 D2 
+58.90
+Gauss average: 60.78
+81 A3 64 42 41 CA 42 73 1D 11 
+60.12
+Gauss average: 60.79
+81 A3 64 42 41 CA 42 73 2A 40 
+55.23
+Gauss average: 60.76
+81 A3 64 42 41 CA 42 73 08 06 
+57.18
+Gauss average: 60.74
+81 A3 64 42 41 CA 42 72 F8 36 
+57.18
+Gauss average: 60.73
+81 A3 64 42 41 CA 42 72 EB 0B 
+55.96
+Gauss average: 60.70
+81 A3 64 42 41 CA 42 72 CE 10 
+63.78
+Gauss average: 60.76
+81 A3 64 42 41 CA 42 73 08 02 
+64.27
+Gauss average: 60.79
+81 A3 64 42 41 CA 42 73 2C E6 
+64.03
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 51 C7 
+61.83
+Gauss average: 60.85
+81 A3 64 42 41 CA 42 73 64 34 
+58.65
+Gauss average: 60.84
+81 A3 64 42 41 CA 42 73 59 AF 
+59.63
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 54 67 
+66.72
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A0 CC 
+59.87
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A3 6F 
+59.87
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A6 10 
+62.32
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 9B 87 
+59.38
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 98 E8 
+59.63
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 98 E3 
+61.09
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A3 6D 
+62.56
+Gauss average: 60.94
+81 A3 64 42 41 CA 42 73 C3 08 
+64.76
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 FA 55 
+65.00
+Gauss average: 61.05
+81 A3 64 42 41 CA 42 74 34 4C 
+63.05
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 51 4B 
+65.98
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 95 C5 
+63.54
+Gauss average: 61.18
+81 A3 64 42 41 CA 42 74 BD 4A 
+62.81
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 DF 89 
+63.05
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 74 FC 81 
+64.52
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 2B EA 
+57.67
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 14 36 
+62.81
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 2B EB 
+58.65
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 14 36 
+59.14
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 DF 87 
+57.92
+Gauss average: 61.18
+81 A3 64 42 41 CA 42 74 BD 49 
+61.83
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 C7 D3 
+62.07
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 D4 FC 
+60.85
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 B2 C1 
+59.38
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A2 EE 
+59.38
+Gauss average: 61.14
+81 A3 64 42 41 CA 42 74 90 7F 
+59.38
+Gauss average: 61.12
+81 A3 64 42 41 CA 42 74 7B 72 
+60.85
+Gauss average: 61.12
+81 A3 64 42 41 CA 42 74 78 C9 
+58.16
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 53 EC 
+58.90
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 41 7B 
+63.05
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 56 8B 
+66.72
+Gauss average: 61.13
+81 A3 64 42 41 CA 42 74 80 B3 
+66.23
+Gauss average: 61.18
+81 A3 64 42 41 CA 42 74 BA A8 
+64.52
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 E2 27 
+64.03
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 75 01 C6 
+63.78
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 75 01 C6 
+64.27
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 26 A8 
+63.29
+Gauss average: 61.31
+81 A3 64 42 41 CA 42 75 3E 5F 
+64.76
+Gauss average: 61.34
+81 A3 64 42 41 CA 42 75 5D F6 
+65.00
+Gauss average: 61.38
+81 A3 64 42 41 CA 42 75 82 D3 
+57.18
+Gauss average: 61.33
+81 A3 64 42 41 CA 42 75 56 11 
+61.34
+Gauss average: 61.33
+81 A3 64 42 41 CA 42 75 53 71 
+58.41
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 2E 90 
+60.12
+Gauss average: 61.24
+81 A3 64 42 41 CA 42 74 F9 DC 
+60.85
+Gauss average: 61.24
+81 A3 64 42 41 CA 42 74 F4 9C 
+65.49
+Gauss average: 61.28
+81 A3 64 42 41 CA 42 75 1E BF 
+62.32
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 26 A6 
+63.29
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 36 6D 
+61.09
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 31 30 
+61.58
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 2B E8 
+56.94
+Gauss average: 61.24
+81 A3 64 42 41 CA 42 74 F9 DB 
+60.12
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 EA 0E 
+60.61
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 DA 3C 
+65.49
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 75 04 67 
+56.70
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 CF B6 
+53.27
+Gauss average: 61.11
+81 A3 64 42 41 CA 42 74 70 E4 
+52.54
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 0F 6F 
+52.54
+Gauss average: 60.92
+81 A3 64 42 41 CA 42 73 AD F4 
+68.91
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F7 B4 
+59.63
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F2 75 
+59.14
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 E7 E6 
+63.78
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 0F 6E 
+57.67
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F7 B7 
+57.67
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 DD 64 
+64.76
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 12 0E 
+63.29
+Gauss average: 61.05
+81 A3 64 42 41 CA 42 74 34 4B 
+63.05
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 53 E7 
+61.34
+Gauss average: 61.09
+81 A3 64 42 41 CA 42 74 5E 73 
+61.83
+Gauss average: 61.11
+81 A3 64 42 41 CA 42 74 73 87 
+63.54
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 9D A9 
+62.56
+Gauss average: 61.18
+81 A3 64 42 41 CA 42 74 BA A4 
+60.12
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 BF ED 
+64.52
+Gauss average: 61.24
+81 A3 64 42 41 CA 42 74 F4 9A 
+64.52
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 19 7A 
+59.87
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 74 FF 22 
+64.52
+Gauss average: 61.24
+81 A3 64 42 41 CA 42 74 F1 F4 
+64.76
+Gauss average: 61.28
+81 A3 64 42 41 CA 42 75 21 60 
+62.32
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 33 D4 
+59.38
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 31 2E 
+55.72
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 75 01 C5 
+55.72
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 D2 5C 
+61.83
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 D7 A0 
+57.67
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 B2 C0 
+57.18
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A0 4C 
+61.34
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 AD 78 
+58.16
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 CD 15 
+53.03
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A0 4A 
+52.30
+Gauss average: 61.11
+81 A3 64 42 41 CA 42 74 6B 9E 
+51.81
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 3E D9 
+48.63
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 9B 85 
+48.14
+Gauss average: 60.73
+81 A3 64 42 41 CA 42 72 ED A6 
+47.90
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3F CE 
+47.90
+Gauss average: 60.42
+81 A3 64 42 41 CA 42 71 A9 A7 
+64.52
+Gauss average: 60.48
+81 A3 64 42 41 CA 42 71 E8 E3 
+62.81
+Gauss average: 60.51
+81 A3 64 42 41 CA 42 72 0B 23 
+63.29
+Gauss average: 60.47
+81 A3 64 42 41 CA 42 71 E6 3F 
+66.72
+Gauss average: 60.55
+81 A3 64 42 41 CA 42 72 30 05 
+60.61
+Gauss average: 60.55
+81 A3 64 42 41 CA 42 72 37 EC 
+61.83
+Gauss average: 60.55
+81 A3 64 42 41 CA 42 72 32 A4 
+61.34
+Gauss average: 60.57
+81 A3 64 42 41 CA 42 72 47 BA 
+65.74
+Gauss average: 60.63
+81 A3 64 42 41 CA 42 72 89 95 
+59.63
+Gauss average: 60.62
+81 A3 64 42 41 CA 42 72 79 C5 
+59.63
+Gauss average: 60.59
+81 A3 64 42 41 CA 42 72 5A 25 
+60.12
+Gauss average: 60.54
+81 A3 64 42 41 CA 42 72 28 1C 
+60.36
+Gauss average: 60.49
+81 A3 64 42 41 CA 42 71 F6 0F 
+59.87
+Gauss average: 60.46
+81 A3 64 42 41 CA 42 71 D3 CF 
+57.67
+Gauss average: 60.37
+81 A3 64 42 41 CA 42 71 7A 3D 
+61.58
+Gauss average: 60.35
+81 A3 64 42 41 CA 42 71 65 2D 
+60.61
+Gauss average: 60.33
+81 A3 64 42 41 CA 42 71 4D 79 
+63.05
+Gauss average: 60.33
+81 A3 64 42 41 CA 42 71 4D 78 
+57.43
+Gauss average: 60.25
+81 A3 64 42 41 CA 42 71 01 13 
+58.65
+Gauss average: 60.26
+81 A3 64 42 41 CA 42 71 0B 9F 
+58.90
+Gauss average: 60.22
+81 A3 64 42 41 CA 42 70 E1 7D 
+58.16
+Gauss average: 60.22
+81 A3 64 42 41 CA 42 70 DC 35 
+60.85
+Gauss average: 60.23
+81 A3 64 42 41 CA 42 70 EE A4 
+61.09
+Gauss average: 60.27
+81 A3 64 42 41 CA 42 71 10 E4 
+58.16
+Gauss average: 60.23
+81 A3 64 42 41 CA 42 70 E9 60 
+58.16
+Gauss average: 60.19
+81 A3 64 42 41 CA 42 70 BF 34 
+60.36
+Gauss average: 60.18
+81 A3 64 42 41 CA 42 70 B9 F7 
+60.85
+Gauss average: 60.20
+81 A3 64 42 41 CA 42 70 C9 C7 
+57.43
+Gauss average: 60.18
+81 A3 64 42 41 CA 42 70 B4 B0 
+58.90
+Gauss average: 60.17
+81 A3 64 42 41 CA 42 70 AF 6C 
+59.38
+Gauss average: 60.16
+81 A3 64 42 41 CA 42 70 9F 9C 
+59.63
+Gauss average: 60.17
+81 A3 64 42 41 CA 42 70 AF 6A 
+54.25
+Gauss average: 60.12
+81 A3 64 42 41 CA 42 70 7D 5C 
+59.14
+Gauss average: 60.08
+81 A3 64 42 41 CA 42 70 53 3C 
+59.63
+Gauss average: 60.01
+81 A3 64 42 41 CA 42 70 06 D4 
+61.58
+Gauss average: 59.96
+81 A3 64 42 41 CA 42 6F D4 CC 
+61.34
+Gauss average: 59.92
+81 A3 64 42 41 CA 42 6F B2 8E 
+61.58
+Gauss average: 59.90
+81 A3 64 42 41 CA 42 6F 98 32 
+62.81
+Gauss average: 59.89
+81 A3 64 42 41 CA 42 6F 8D AA 
+62.56
+Gauss average: 59.87
+81 A3 64 42 41 CA 42 6F 7B 39 
+63.05
+Gauss average: 59.87
+81 A3 64 42 41 CA 42 6F 78 97 
+64.27
+Gauss average: 59.86
+81 A3 64 42 41 CA 42 6F 73 53 
+59.38
+Gauss average: 59.80
+81 A3 64 42 41 CA 42 6F 36 BD 
+61.83
+Gauss average: 59.85
+81 A3 64 42 41 CA 42 6F 68 CB 
+61.83
+Gauss average: 59.86
+81 A3 64 42 41 CA 42 6F 6E 11 
+61.09
+Gauss average: 59.89
+81 A3 64 42 41 CA 42 6F 8B 09 
+57.67
+Gauss average: 59.86
+81 A3 64 42 41 CA 42 6F 70 AE 
+57.67
+Gauss average: 59.83
+81 A3 64 42 41 CA 42 6F 4E 76 
+57.92
+Gauss average: 59.75
+81 A3 64 42 41 CA 42 6E FC C5 
+63.05
+Gauss average: 59.75
+81 A3 64 42 41 CA 42 6F 04 B0 
+65.74
+Gauss average: 59.78
+81 A3 64 42 41 CA 42 6F 1F 09 
+61.58
+Gauss average: 59.79
+81 A3 64 42 41 CA 42 6F 24 4D 
+60.12
+Gauss average: 59.77
+81 A3 64 42 41 CA 42 6F 14 7F 
+59.63
+Gauss average: 59.80
+81 A3 64 42 41 CA 42 6F 31 78 
+59.38
+Gauss average: 59.79
+81 A3 64 42 41 CA 42 6F 29 92 
+60.61
+Gauss average: 59.79
+81 A3 64 42 41 CA 42 6F 29 91 
+61.09
+Gauss average: 59.74
+81 A3 64 42 41 CA 42 6E FA 26 
+62.32
+Gauss average: 59.80
+81 A3 64 42 41 CA 42 6F 36 BC 
+63.29
+Gauss average: 59.91
+81 A3 64 42 41 CA 42 6F A2 C2 
+64.03
+Gauss average: 60.03
+81 A3 64 42 41 CA 42 70 1E 8B 
+63.54
+Gauss average: 60.15
+81 A3 64 42 41 CA 42 70 95 16 
+60.85
+Gauss average: 60.06
+81 A3 64 42 41 CA 42 70 3E 2B 
+56.45
+Gauss average: 60.03
+81 A3 64 42 41 CA 42 70 1B E6 
+55.72
+Gauss average: 59.99
+81 A3 64 42 41 CA 42 6F F7 04 
+55.96
+Gauss average: 59.91
+81 A3 64 42 41 CA 42 6F A2 BE 
+59.14
+Gauss average: 59.92
+81 A3 64 42 41 CA 42 6F B2 8B 
+63.05
+Gauss average: 59.98
+81 A3 64 42 41 CA 42 6F EC 7F 
+59.38
+Gauss average: 59.92
+81 A3 64 42 41 CA 42 6F B2 8C 
+57.43
+Gauss average: 59.86
+81 A3 64 42 41 CA 42 6F 73 4F 
+55.23
+Gauss average: 59.78
+81 A3 64 42 41 CA 42 6F 1F 08 
+59.87
+Gauss average: 59.76
+81 A3 64 42 41 CA 42 6F 0F 3A 
+59.87
+Gauss average: 59.74
+81 A3 64 42 41 CA 42 6E FA 25 
+59.87
+Gauss average: 59.71
+81 A3 64 42 41 CA 42 6E D2 A7 
+63.78
+Gauss average: 59.72
+81 A3 64 42 41 CA 42 6E DF D0 
+66.47
+Gauss average: 59.79
+81 A3 64 42 41 CA 42 6F 24 49 
+59.63
+Gauss average: 59.73
+81 A3 64 42 41 CA 42 6E EF 9D 
+60.85
+Gauss average: 59.70
+81 A3 64 42 41 CA 42 6E C8 1D 
+61.09
+Gauss average: 59.71
+81 A3 64 42 41 CA 42 6E D5 40 
+61.58
+Gauss average: 59.68
+81 A3 64 42 41 CA 42 6E B5 AB 
+61.09
+Gauss average: 59.64
+81 A3 64 42 41 CA 42 6E 8E 27 
+60.85
+Gauss average: 59.62
+81 A3 64 42 41 CA 42 6E 7E 5A 
+61.34
+Gauss average: 59.64
+81 A3 64 42 41 CA 42 6E 93 6B 
+61.83
+Gauss average: 59.71
+81 A3 64 42 41 CA 42 6E D5 49 
+60.12
+Gauss average: 59.75
+81 A3 64 42 41 CA 42 6F 04 B4 
+63.54
+Gauss average: 59.77
+81 A3 64 42 41 CA 42 6F 17 25 
+62.81
+Gauss average: 59.83
+81 A3 64 42 41 CA 42 6F 4E 77 
+60.85
+Gauss average: 59.87
+81 A3 64 42 41 CA 42 6F 75 F5 
+61.09
+Gauss average: 59.86
+81 A3 64 42 41 CA 42 6F 73 51 
+59.63
+Gauss average: 59.88
+81 A3 64 42 41 CA 42 6F 83 20 
+60.85
+Gauss average: 59.96
+81 A3 64 42 41 CA 42 6F D7 6C 
+61.34
+Gauss average: 60.06
+81 A3 64 42 41 CA 42 70 38 E5 
+61.34
+Gauss average: 60.16
+81 A3 64 42 41 CA 42 70 9F 9F 
+60.12
+Gauss average: 60.28
+81 A3 64 42 41 CA 42 71 1B 71 
+59.63
+Gauss average: 60.40
+81 A3 64 42 41 CA 42 71 97 3B 
+58.65
+Gauss average: 60.51
+81 A3 64 42 41 CA 42 72 0B 21 
+56.70
+Gauss average: 60.60
+81 A3 64 42 41 CA 42 72 69 F9 
+62.56
+Gauss average: 60.58
+81 A3 64 42 41 CA 42 72 54 E4 
+65.25
+Gauss average: 60.61
+81 A3 64 42 41 CA 42 72 6F 3B 
+63.05
+Gauss average: 60.61
+81 A3 64 42 41 CA 42 72 6C 99 
+63.54
+Gauss average: 60.57
+81 A3 64 42 41 CA 42 72 4A 5D 
+65.74
+Gauss average: 60.63
+81 A3 64 42 41 CA 42 72 81 AC 
+66.23
+Gauss average: 60.67
+81 A3 64 42 41 CA 42 72 B1 14 
+62.81
+Gauss average: 60.69
+81 A3 64 42 41 CA 42 72 C0 E7 
+53.27
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3A 8C 
+53.76
+Gauss average: 60.50
+81 A3 64 42 41 CA 42 71 FB 55 
+54.01
+Gauss average: 60.44
+81 A3 64 42 41 CA 42 71 BE BC 
+56.70
+Gauss average: 60.40
+81 A3 64 42 41 CA 42 71 99 E0 
+69.89
+Gauss average: 60.50
+81 A3 64 42 41 CA 42 72 00 9A 
+70.38
+Gauss average: 60.61
+81 A3 64 42 41 CA 42 72 71 E1 
+65.49
+Gauss average: 60.69
+81 A3 64 42 41 CA 42 72 C6 25 
+64.27
+Gauss average: 60.72
+81 A3 64 42 41 CA 42 72 E3 23 
+68.18
+Gauss average: 60.80
+81 A3 64 42 41 CA 42 73 34 C9 
+61.09
+Gauss average: 60.78
+81 A3 64 42 41 CA 42 73 1F B9 
+62.07
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 51 C3 
+62.07
+Gauss average: 60.87
+81 A3 64 42 41 CA 42 73 76 A6 
+65.74
+Gauss average: 60.94
+81 A3 64 42 41 CA 42 73 C0 68 
+69.65
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 3C 37 
+70.14
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A0 4F 
+58.65
+Gauss average: 61.13
+81 A3 64 42 41 CA 42 74 85 F5 
+53.76
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 56 8E 
+48.39
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 ED 2C 
+48.88
+Gauss average: 60.86
+81 A3 64 42 41 CA 42 73 71 5C 
+59.14
+Gauss average: 60.84
+81 A3 64 42 41 CA 42 73 5E F0 
+59.63
+Gauss average: 60.87
+81 A3 64 42 41 CA 42 73 76 A3 
+66.72
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 CA EB 
+63.05
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F2 71 
+63.05
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 17 55 
+65.00
+Gauss average: 61.14
+81 A3 64 42 41 CA 42 74 8B 3B 
+64.03
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 BF EC 
+62.81
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 E2 28 
+59.63
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 CD 15 
+62.56
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 DA 41 
+63.05
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 EA 13 
+63.05
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 EC B2 
+58.90
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 C5 34 
+59.14
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 9B 0B 
+59.38
+Gauss average: 61.10
+81 A3 64 42 41 CA 42 74 66 5A 
+56.70
+Gauss average: 61.07
+81 A3 64 42 41 CA 42 74 49 60 
+47.90
+Gauss average: 60.93
+81 A3 64 42 41 CA 42 73 B3 3D 
+51.08
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 3F 57 
+51.08
+Gauss average: 60.71
+81 A3 64 42 41 CA 42 72 D3 55 
+52.05
+Gauss average: 60.65
+81 A3 64 42 41 CA 42 72 96 C0 
+52.79
+Gauss average: 60.60
+81 A3 64 42 41 CA 42 72 62 10 
+52.54
+Gauss average: 60.54
+81 A3 64 42 41 CA 42 72 28 1D 
+64.27
+Gauss average: 60.55
+81 A3 64 42 41 CA 42 72 35 4A 
+62.56
+Gauss average: 60.52
+81 A3 64 42 41 CA 42 72 13 0D 
+67.94
+Gauss average: 60.59
+81 A3 64 42 41 CA 42 72 57 86 
+68.43
+Gauss average: 60.67
+81 A3 64 42 41 CA 42 72 B1 14 
+60.36
+Gauss average: 60.68
+81 A3 64 42 41 CA 42 72 B8 FC 
+58.65
+Gauss average: 60.67
+81 A3 64 42 41 CA 42 72 B1 1A 
+58.65
+Gauss average: 60.65
+81 A3 64 42 41 CA 42 72 9C 02 
+56.45
+Gauss average: 60.60
+81 A3 64 42 41 CA 42 72 69 F7 
+55.96
+Gauss average: 60.54
+81 A3 64 42 41 CA 42 72 25 79 
+58.41
+Gauss average: 60.49
+81 A3 64 42 41 CA 42 71 F0 C9 
+64.76
+Gauss average: 60.49
+81 A3 64 42 41 CA 42 71 F8 AE 
+65.49
+Gauss average: 60.51
+81 A3 64 42 41 CA 42 72 0D C7 
+67.20
+Gauss average: 60.58
+81 A3 64 42 41 CA 42 72 52 43 
+57.18
+Gauss average: 60.59
+81 A3 64 42 41 CA 42 72 5A 24 
+65.74
+Gauss average: 60.69
+81 A3 64 42 41 CA 42 72 C6 29 
+66.23
+Gauss average: 60.80
+81 A3 64 42 41 CA 42 73 34 CA 
+63.05
+Gauss average: 60.84
+81 A3 64 42 41 CA 42 73 5E F1 
+63.54
+Gauss average: 60.85
+81 A3 64 42 41 CA 42 73 64 35 
+63.54
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 90 F9 
+60.36
+Gauss average: 60.92
+81 A3 64 42 41 CA 42 73 B0 98 
+52.30
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 90 FE 
+52.30
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 3F 54 
+52.30
+Gauss average: 60.73
+81 A3 64 42 41 CA 42 72 ED AC 
+52.30
+Gauss average: 60.65
+81 A3 64 42 41 CA 42 72 9C 08 
+52.79
+Gauss average: 60.54
+81 A3 64 42 41 CA 42 72 25 7F 
+53.03
+Gauss average: 60.40
+81 A3 64 42 41 CA 42 71 94 95 
+52.79
+Gauss average: 60.32
+81 A3 64 42 41 CA 42 71 4A D8 
+68.67
+Gauss average: 60.41
+81 A3 64 42 41 CA 42 71 9F 25 
+69.65
+Gauss average: 60.50
+81 A3 64 42 41 CA 42 71 FB 56 
+64.52
+Gauss average: 60.53
+81 A3 64 42 41 CA 42 72 1A EF 
+64.03
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3A 8A 
+61.83
+Gauss average: 60.57
+81 A3 64 42 41 CA 42 72 45 14 
+62.56
+Gauss average: 60.58
+81 A3 64 42 41 CA 42 72 52 3F 
+64.76
+Gauss average: 60.61
+81 A3 64 42 41 CA 42 72 71 DD 
+64.27
+Gauss average: 60.65
+81 A3 64 42 41 CA 42 72 9E A3 
+63.05
+Gauss average: 60.65
+81 A3 64 42 41 CA 42 72 99 61 
+60.85
+Gauss average: 60.63
+81 A3 64 42 41 CA 42 72 84 51 
+60.85
+Gauss average: 60.63
+81 A3 64 42 41 CA 42 72 84 4D 
+66.23
+Gauss average: 60.68
+81 A3 64 42 41 CA 42 72 BB 9D 
+69.65
+Gauss average: 60.79
+81 A3 64 42 41 CA 42 73 27 A0 
+62.56
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 3A 0E 
+61.83
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 3F 51 
+50.34
+Gauss average: 60.70
+81 A3 64 42 41 CA 42 72 C8 CD 
+64.76
+Gauss average: 60.74
+81 A3 64 42 41 CA 42 72 FA D8 
+65.00
+Gauss average: 60.80
+81 A3 64 42 41 CA 42 73 34 CC 
+65.00
+Gauss average: 60.87
+81 A3 64 42 41 CA 42 73 79 44 
+64.76
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 D0 33 
+65.49
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 EF D0 
+67.45
+Gauss average: 61.01
+81 A3 64 42 41 CA 42 74 07 86 
+69.89
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 51 47 
+67.20
+Gauss average: 61.12
+81 A3 64 42 41 CA 42 74 78 CA 
+62.32
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 53 EA 
+64.27
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 3E D7 
+64.27
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 4E A3 
+61.58
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A8 2F 
+60.12
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 EC B0 
+60.85
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 36 74 
+52.30
+Gauss average: 61.26
+81 A3 64 42 41 CA 42 75 07 0B 
+53.27
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 53 E9 
+64.03
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 0F 65 
+61.09
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 DF FF 
+64.52
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 E2 A5 
+60.61
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 90 FA 
+60.61
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 8B B9 
+67.45
+Gauss average: 60.94
+81 A3 64 42 41 CA 42 73 C5 AB 
+66.72
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F7 B6 
+66.96
+Gauss average: 61.00
+81 A3 64 42 41 CA 42 74 04 E4 
+64.03
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 C8 4D 
+63.05
+Gauss average: 60.87
+81 A3 64 42 41 CA 42 73 7B E7 
+57.67
+Gauss average: 60.86
+81 A3 64 42 41 CA 42 73 71 60 
+58.65
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A6 11 
+60.12
+Gauss average: 61.04
+81 A3 64 42 41 CA 42 74 24 80 
+57.67
+Gauss average: 61.13
+81 A3 64 42 41 CA 42 74 83 55 
+57.92
+Gauss average: 61.12
+81 A3 64 42 41 CA 42 74 76 23 
+58.90
+Gauss average: 61.11
+81 A3 64 42 41 CA 42 74 6E 41 
+58.90
+Gauss average: 61.03
+81 A3 64 42 41 CA 42 74 19 F9 
+58.65
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 EA 8C 
+56.94
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A8 B3 
+64.52
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A3 6D 
+61.83
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 8B B6 
+61.83
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 81 32 
+62.07
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 9B 86 
+62.81
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 9E 27 
+63.54
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A3 6D 
+57.43
+Gauss average: 60.85
+81 A3 64 42 41 CA 42 73 66 D5 
+50.10
+Gauss average: 60.76
+81 A3 64 42 41 CA 42 73 08 03 
+56.21
+Gauss average: 60.73
+81 A3 64 42 41 CA 42 72 E8 69 
+52.54
+Gauss average: 60.65
+81 A3 64 42 41 CA 42 72 9E A6 
+58.65
+Gauss average: 60.68
+81 A3 64 42 41 CA 42 72 B3 BA 
+58.41
+Gauss average: 60.79
+81 A3 64 42 41 CA 42 73 24 FB 
+58.41
+Gauss average: 60.86
+81 A3 64 42 41 CA 42 73 74 00 
+58.41
+Gauss average: 60.94
+81 A3 64 42 41 CA 42 73 C3 0A 
+65.25
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 51 46 
+63.29
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 C2 8E 
+63.54
+Gauss average: 61.31
+81 A3 64 42 41 CA 42 75 39 17 
+64.76
+Gauss average: 61.31
+81 A3 64 42 41 CA 42 75 3E 58 
+60.85
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 2B E6 
+63.78
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 74 FF 22 
+60.36
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A8 36 
+68.18
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 74 FC 83 
+62.32
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 24 05 
+62.81
+Gauss average: 61.33
+81 A3 64 42 41 CA 42 75 50 CB 
+62.32
+Gauss average: 61.39
+81 A3 64 42 41 CA 42 75 90 02 
+58.16
+Gauss average: 61.41
+81 A3 64 42 41 CA 42 75 A7 B6 
+57.92
+Gauss average: 61.41
+81 A3 64 42 41 CA 42 75 A2 73 
+65.00
+Gauss average: 61.41
+81 A3 64 42 41 CA 42 75 A5 15 
+69.89
+Gauss average: 61.46
+81 A3 64 42 41 CA 42 75 D4 82 
+62.56
+Gauss average: 61.41
+81 A3 64 42 41 CA 42 75 A2 72 
+63.78
+Gauss average: 61.48
+81 A3 64 42 41 CA 42 75 E9 90 
+59.38
+Gauss average: 61.41
+81 A3 64 42 41 CA 42 75 A5 17 
+62.56
+Gauss average: 61.37
+81 A3 64 42 41 CA 42 75 7D 95 
+62.81
+Gauss average: 61.37
+81 A3 64 42 41 CA 42 75 7A EF 
+60.36
+Gauss average: 61.34
+81 A3 64 42 41 CA 42 75 58 AD 
+60.36
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 36 71 
+65.49
+Gauss average: 61.36
+81 A3 64 42 41 CA 42 75 6D BE 
+65.49
+Gauss average: 61.50
+81 A3 64 42 41 CA 42 75 FC 00 
+63.78
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 77 C9 
+58.90
+Gauss average: 61.69
+81 A3 64 42 41 CA 42 76 BE F2 
+59.14
+Gauss average: 61.76
+81 A3 64 42 41 CA 42 77 08 B8 
+63.29
+Gauss average: 61.87
+81 A3 64 42 41 CA 42 77 79 F6 
+64.76
+Gauss average: 61.99
+81 A3 64 42 41 CA 42 77 F8 65 
+65.00
+Gauss average: 62.12
+81 A3 64 42 41 CA 42 78 7C 1F 
+58.16
+Gauss average: 62.01
+81 A3 64 42 41 CA 42 78 0A D2 
+60.36
+Gauss average: 61.91
+81 A3 64 42 41 CA 42 77 A6 BF 
+64.03
+Gauss average: 61.91
+81 A3 64 42 41 CA 42 77 A1 7C 
+64.76
+Gauss average: 61.92
+81 A3 64 42 41 CA 42 77 A9 61 
+62.81
+Gauss average: 61.93
+81 A3 64 42 41 CA 42 77 B3 E8 
+60.12
+Gauss average: 61.90
+81 A3 64 42 41 CA 42 77 99 94 
+59.87
+Gauss average: 61.85
+81 A3 64 42 41 CA 42 77 64 E5 
+62.81
+Gauss average: 61.83
+81 A3 64 42 41 CA 42 77 55 19 
+55.96
+Gauss average: 61.76
+81 A3 64 42 41 CA 42 77 08 B1 
+55.72
+Gauss average: 61.70
+81 A3 64 42 41 CA 42 76 D1 5F 
+62.32
+Gauss average: 61.72
+81 A3 64 42 41 CA 42 76 E1 2D 
+62.56
+Gauss average: 61.68
+81 A3 64 42 41 CA 42 76 B9 AA 
+63.29
+Gauss average: 61.61
+81 A3 64 42 41 CA 42 76 75 2E 
+66.72
+Gauss average: 61.66
+81 A3 64 42 41 CA 42 76 A1 F7 
+61.58
+Gauss average: 61.66
+81 A3 64 42 41 CA 42 76 9F 4D 
+58.65
+Gauss average: 61.74
+81 A3 64 42 41 CA 42 76 F8 E3 
+58.16
+Gauss average: 61.67
+81 A3 64 42 41 CA 42 76 B1 C5 
+58.90
+Gauss average: 61.61
+81 A3 64 42 41 CA 42 76 6F EA 
+56.45
+Gauss average: 61.52
+81 A3 64 42 41 CA 42 76 13 B5 
+56.70
+Gauss average: 61.43
+81 A3 64 42 41 CA 42 75 BC C9 
+54.25
+Gauss average: 61.32
+81 A3 64 42 41 CA 42 75 43 9F 
+63.05
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 14 36 
+63.05
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 CA 73 
+63.05
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 9D A9 
+64.76
+Gauss average: 61.18
+81 A3 64 42 41 CA 42 74 B8 04 
+63.05
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 AA DA 
+63.05
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 9D AB 
+59.63
+Gauss average: 61.13
+81 A3 64 42 41 CA 42 74 88 9C 
+63.54
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 AD 78 
+62.81
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 C2 8D 
+62.81
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 33 D1 
+65.49
+Gauss average: 61.43
+81 A3 64 42 41 CA 42 75 B7 87 
+65.98
+Gauss average: 61.45
+81 A3 64 42 41 CA 42 75 CC 99 
+68.91
+Gauss average: 61.53
+81 A3 64 42 41 CA 42 76 20 E7 
+61.83
+Gauss average: 61.50
+81 A3 64 42 41 CA 42 76 03 EC 
+59.14
+Gauss average: 61.49
+81 A3 64 42 41 CA 42 75 F4 1E 
+59.14
+Gauss average: 61.47
+81 A3 64 42 41 CA 42 75 E4 51 
+62.56
+Gauss average: 61.42
+81 A3 64 42 41 CA 42 75 AF 9D 
+65.00
+Gauss average: 61.40
+81 A3 64 42 41 CA 42 75 9D 2C 
+63.78
+Gauss average: 61.37
+81 A3 64 42 41 CA 42 75 7A F2 
+63.78
+Gauss average: 61.37
+81 A3 64 42 41 CA 42 75 78 4B 
+61.34
+Gauss average: 61.35
+81 A3 64 42 41 CA 42 75 65 DC 
+65.00
+Gauss average: 61.43
+81 A3 64 42 41 CA 42 75 B4 E1 
+65.00
+Gauss average: 61.49
+81 A3 64 42 41 CA 42 75 F9 5D 
+61.83
+Gauss average: 61.51
+81 A3 64 42 41 CA 42 76 0B D0 
+61.58
+Gauss average: 61.55
+81 A3 64 42 41 CA 42 76 35 F4 
+61.58
+Gauss average: 61.59
+81 A3 64 42 41 CA 42 76 5D 75 
+62.07
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 7F BA 
+61.83
+Gauss average: 61.66
+81 A3 64 42 41 CA 42 76 9F 55 
+57.67
+Gauss average: 61.65
+81 A3 64 42 41 CA 42 76 94 C9 
+57.67
+Gauss average: 61.65
+81 A3 64 42 41 CA 42 76 9C B1 
+54.74
+Gauss average: 61.55
+81 A3 64 42 41 CA 42 76 33 50 
+64.27
+Gauss average: 61.58
+81 A3 64 42 41 CA 42 76 4D AA 
+63.78
+Gauss average: 61.60
+81 A3 64 42 41 CA 42 76 62 BD 
+64.52
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 7D 14 
+63.54
+Gauss average: 61.63
+81 A3 64 42 41 CA 42 76 84 FB 
+65.00
+Gauss average: 61.65
+81 A3 64 42 41 CA 42 76 94 CD 
+57.43
+Gauss average: 61.65
+81 A3 64 42 41 CA 42 76 94 CC 
+57.67
+Gauss average: 61.73
+81 A3 64 42 41 CA 42 76 E6 73 
+62.81
+Gauss average: 61.79
+81 A3 64 42 41 CA 42 77 2D 90 
+55.96
+Gauss average: 61.83
+81 A3 64 42 41 CA 42 77 52 6D 
+55.47
+Gauss average: 61.80
+81 A3 64 42 41 CA 42 77 30 38 
+59.14
+Gauss average: 61.80
+81 A3 64 42 41 CA 42 77 38 18 
+56.94
+Gauss average: 61.79
+81 A3 64 42 41 CA 42 77 28 4E 
+56.94
+Gauss average: 61.77
+81 A3 64 42 41 CA 42 77 18 80 
+62.81
+Gauss average: 61.75
+81 A3 64 42 41 CA 42 76 FE 29 
+63.05
+Gauss average: 61.75
+81 A3 64 42 41 CA 42 76 FB 89 
+60.12
+Gauss average: 61.71
+81 A3 64 42 41 CA 42 76 D6 A1 
+59.87
+Gauss average: 61.66
+81 A3 64 42 41 CA 42 76 A1 F7 
+59.38
+Gauss average: 61.64
+81 A3 64 42 41 CA 42 76 92 26 
+58.16
+Gauss average: 61.58
+81 A3 64 42 41 CA 42 76 55 91 
+58.16
+Gauss average: 61.56
+81 A3 64 42 41 CA 42 76 3D DC 
+62.07
+Gauss average: 61.50
+81 A3 64 42 41 CA 42 75 FC 04 
+62.32
+Gauss average: 61.50
+81 A3 64 42 41 CA 42 75 FC 01 
+61.83
+Gauss average: 61.49
+81 A3 64 42 41 CA 42 75 F1 75 
+60.36
+Gauss average: 61.47
+81 A3 64 42 41 CA 42 75 DC 65 
+63.05
+Gauss average: 61.52
+81 A3 64 42 41 CA 42 76 11 16 
+54.50
+Gauss average: 61.48
+81 A3 64 42 41 CA 42 75 EC 37 
+54.74
+Gauss average: 61.37
+81 A3 64 42 41 CA 42 75 7D 91 
+56.70
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 EF 53 
+54.25
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 95 C5 
+54.99
+Gauss average: 61.05
+81 A3 64 42 41 CA 42 74 36 ED 
+53.03
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F2 73 
+52.05
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 81 31 
+52.54
+Gauss average: 60.77
+81 A3 64 42 41 CA 42 73 12 89 
+56.70
+Gauss average: 60.73
+81 A3 64 42 41 CA 42 72 EB 09 
+54.74
+Gauss average: 60.67
+81 A3 64 42 41 CA 42 72 AE 77 
+51.56
+Gauss average: 60.52
+81 A3 64 42 41 CA 42 72 18 4E 
+51.56
+Gauss average: 60.38
+81 A3 64 42 41 CA 42 71 82 24 
+56.45
+Gauss average: 60.30
+81 A3 64 42 41 CA 42 71 33 21 
+54.74
+Gauss average: 60.26
+81 A3 64 42 41 CA 42 71 06 5B 
+54.50
+Gauss average: 60.21
+81 A3 64 42 41 CA 42 70 D4 4E 
+64.76
+Gauss average: 60.22
+81 A3 64 42 41 CA 42 70 E4 17 
+61.09
+Gauss average: 60.18
+81 A3 64 42 41 CA 42 70 BC 95 
+61.34
+Gauss average: 60.15
+81 A3 64 42 41 CA 42 70 95 18 
+62.07
+Gauss average: 60.19
+81 A3 64 42 41 CA 42 70 BF 38 
+57.67
+Gauss average: 60.16
+81 A3 64 42 41 CA 42 70 A2 41 
+61.09
+Gauss average: 60.13
+81 A3 64 42 41 CA 42 70 82 A4 
+60.85
+Gauss average: 60.09
+81 A3 64 42 41 CA 42 70 58 7E 
+55.96
+Gauss average: 60.01
+81 A3 64 42 41 CA 42 70 0E BE 
+63.78
+Gauss average: 60.05
+81 A3 64 42 41 CA 42 70 36 3F 
+63.29
+Gauss average: 60.09
+81 A3 64 42 41 CA 42 70 5B 22 
+62.07
+Gauss average: 60.08
+81 A3 64 42 41 CA 42 70 53 37 
+62.07
+Gauss average: 60.15
+81 A3 64 42 41 CA 42 70 95 15 
+55.72
+Gauss average: 60.15
+81 A3 64 42 41 CA 42 70 95 15 
+55.72
+Gauss average: 60.08
+81 A3 64 42 41 CA 42 70 4D F7 
+58.90
+Gauss average: 60.04
+81 A3 64 42 41 CA 42 70 26 76 
+50.59
+Gauss average: 59.90
+81 A3 64 42 41 CA 42 6F 9D 7B 
+51.32
+Gauss average: 59.74
+81 A3 64 42 41 CA 42 6E F7 84 
+59.87
+Gauss average: 59.72
+81 A3 64 42 41 CA 42 6E E5 13 
+59.14
+Gauss average: 59.73
+81 A3 64 42 41 CA 42 6E EA 57 
+56.70
+Gauss average: 59.71
+81 A3 64 42 41 CA 42 6E DA 86 
+63.05
+Gauss average: 59.76
+81 A3 64 42 41 CA 42 6F 07 50 
+52.05
+Gauss average: 59.71
+81 A3 64 42 41 CA 42 6E D7 ED 
+51.08
+Gauss average: 59.65
+81 A3 64 42 41 CA 42 6E 9B 53 
+59.63
+Gauss average: 59.71
+81 A3 64 42 41 CA 42 6E D5 48 
+57.92
+Gauss average: 59.65
+81 A3 64 42 41 CA 42 6E 9D F7 
+57.43
+Gauss average: 59.60
+81 A3 64 42 41 CA 42 6E 61 60 
+65.74
+Gauss average: 59.62
+81 A3 64 42 41 CA 42 6E 7E 5A 
+62.81
+Gauss average: 59.60
+81 A3 64 42 41 CA 42 6E 69 47 
+62.07
+Gauss average: 59.59
+81 A3 64 42 41 CA 42 6E 5E B8 
+62.07
+Gauss average: 59.58
+81 A3 64 42 41 CA 42 6E 54 33 
+58.90
+Gauss average: 59.57
+81 A3 64 42 41 CA 42 6E 4C 50 
+60.85
+Gauss average: 59.55
+81 A3 64 42 41 CA 42 6E 2F 53 
+60.12
+Gauss average: 59.52
+81 A3 64 42 41 CA 42 6E 12 5D 
+56.94
+Gauss average: 59.46
+81 A3 64 42 41 CA 42 6D D3 21 
+60.85
+Gauss average: 59.41
+81 A3 64 42 41 CA 42 6D A1 14 
+60.61
+Gauss average: 59.35
+81 A3 64 42 41 CA 42 6D 67 26 
+66.96
+Gauss average: 59.33
+81 A3 64 42 41 CA 42 6D 52 0C 
+64.27
+Gauss average: 59.36
+81 A3 64 42 41 CA 42 6D 6C 68 
+63.78
+Gauss average: 59.40
+81 A3 64 42 41 CA 42 6D 9E 74 
+64.52
+Gauss average: 59.46
+81 A3 64 42 41 CA 42 6D D8 66 
+63.54
+Gauss average: 59.47
+81 A3 64 42 41 CA 42 6D E2 EF 
+61.58
+Gauss average: 59.44
+81 A3 64 42 41 CA 42 6D BE 0E 
+58.41
+Gauss average: 59.38
+81 A3 64 42 41 CA 42 6D 84 1C 
+58.16
+Gauss average: 59.32
+81 A3 64 42 41 CA 42 6D 47 86 
+59.63
+Gauss average: 59.30
+81 A3 64 42 41 CA 42 6D 35 13 
+57.43
+Gauss average: 59.22
+81 A3 64 42 41 CA 42 6C E3 6A 
+63.29
+Gauss average: 59.20
+81 A3 64 42 41 CA 42 6C D0 FC 
+55.23
+Gauss average: 59.13
+81 A3 64 42 41 CA 42 6C 89 DD 
+53.52
+Gauss average: 59.05
+81 A3 64 42 41 CA 42 6C 32 EE 
+54.99
+Gauss average: 58.98
+81 A3 64 42 41 CA 42 6B EB CE 
+58.16
+Gauss average: 58.94
+81 A3 64 42 41 CA 42 6B C1 AA 
+62.07
+Gauss average: 58.94
+81 A3 64 42 41 CA 42 6B C4 49 
+61.34
+Gauss average: 58.98
+81 A3 64 42 41 CA 42 6B EB D1 
+64.76
+Gauss average: 59.05
+81 A3 64 42 41 CA 42 6C 38 31 
+65.00
+Gauss average: 59.16
+81 A3 64 42 41 CA 42 6C A6 D5 
+65.00
+Gauss average: 59.17
+81 A3 64 42 41 CA 42 6C AE B9 
+62.56
+Gauss average: 59.16
+81 A3 64 42 41 CA 42 6C A1 92 
+65.49
+Gauss average: 59.17
+81 A3 64 42 41 CA 42 6C AC 1E 
+64.52
+Gauss average: 59.18
+81 A3 64 42 41 CA 42 6C B6 9F 
+65.74
+Gauss average: 59.19
+81 A3 64 42 41 CA 42 6C BE 91 
+63.78
+Gauss average: 59.25
+81 A3 64 42 41 CA 42 6D 03 0C 
+60.85
+Gauss average: 59.29
+81 A3 64 42 41 CA 42 6D 25 46 
+60.85
+Gauss average: 59.27
+81 A3 64 42 41 CA 42 6D 10 37 
+61.58
+Gauss average: 59.32
+81 A3 64 42 41 CA 42 6D 4C C7 
+59.14
+Gauss average: 59.36
+81 A3 64 42 41 CA 42 6D 74 4B 
+59.14
+Gauss average: 59.36
+81 A3 64 42 41 CA 42 6D 74 4B 
+61.09
+Gauss average: 59.41
+81 A3 64 42 41 CA 42 6D A1 13 
+54.99
+Gauss average: 59.39
+81 A3 64 42 41 CA 42 6D 8C 02 
+61.34
+Gauss average: 59.37
+81 A3 64 42 41 CA 42 6D 7C 33 
+61.34
+Gauss average: 59.35
+81 A3 64 42 41 CA 42 6D 69 C3 
+64.03
+Gauss average: 59.39
+81 A3 64 42 41 CA 42 6D 93 EC 
+61.58
+Gauss average: 59.41
+81 A3 64 42 41 CA 42 6D A6 5A 
+58.90
+Gauss average: 59.41
+81 A3 64 42 41 CA 42 6D A1 12 
+59.14
+Gauss average: 59.42
+81 A3 64 42 41 CA 42 6D AB 9F 
+60.85
+Gauss average: 59.45
+81 A3 64 42 41 CA 42 6D C8 99 
+60.85
+Gauss average: 59.43
+81 A3 64 42 41 CA 42 6D BB 70 
+66.23
+Gauss average: 59.47
+81 A3 64 42 41 CA 42 6D E5 91 
+66.23
+Gauss average: 59.52
+81 A3 64 42 41 CA 42 6E 14 FE 
+59.63
+Gauss average: 59.51
+81 A3 64 42 41 CA 42 6E 0D 15 
+59.38
+Gauss average: 59.47
+81 A3 64 42 41 CA 42 6D E5 8E 
+65.00
+Gauss average: 59.58
+81 A3 64 42 41 CA 42 6E 56 D9 
+64.27
+Gauss average: 59.69
+81 A3 64 42 41 CA 42 6E BD 91 
+64.52
+Gauss average: 59.77
+81 A3 64 42 41 CA 42 6F 11 DF 
+57.92
+Gauss average: 59.81
+81 A3 64 42 41 CA 42 6F 39 61 
+60.85
+Gauss average: 59.87
+81 A3 64 42 41 CA 42 6F 78 9A 
+63.54
+Gauss average: 59.98
+81 A3 64 42 41 CA 42 6F E9 DF 
+63.54
+Gauss average: 60.10
+81 A3 64 42 41 CA 42 70 65 AB 
+55.96
+Gauss average: 60.14
+81 A3 64 42 41 CA 42 70 8A 8A 
+55.72
+Gauss average: 60.13
+81 A3 64 42 41 CA 42 70 80 02 
+59.38
+Gauss average: 60.17
+81 A3 64 42 41 CA 42 70 B2 11 
+60.61
+Gauss average: 60.27
+81 A3 64 42 41 CA 42 71 13 86 
+57.67
+Gauss average: 60.33
+81 A3 64 42 41 CA 42 71 55 61 
+57.67
+Gauss average: 60.35
+81 A3 64 42 41 CA 42 71 62 89 
+61.83
+Gauss average: 60.42
+81 A3 64 42 41 CA 42 71 AE EF 
+65.00
+Gauss average: 60.53
+81 A3 64 42 41 CA 42 72 20 33 
+65.00
+Gauss average: 60.53
+81 A3 64 42 41 CA 42 72 22 D8 
+65.25
+Gauss average: 60.58
+81 A3 64 42 41 CA 42 72 4F 9F 
+64.27
+Gauss average: 60.61
+81 A3 64 42 41 CA 42 72 6F 39 
+59.87
+Gauss average: 60.59
+81 A3 64 42 41 CA 42 72 57 84 
+59.14
+Gauss average: 60.60
+81 A3 64 42 41 CA 42 72 67 55 
+59.87
+Gauss average: 60.59
+81 A3 64 42 41 CA 42 72 5A 28 
+63.29
+Gauss average: 60.61
+81 A3 64 42 41 CA 42 72 74 7C 
+66.23
+Gauss average: 60.72
+81 A3 64 42 41 CA 42 72 E3 23 
+58.90
+Gauss average: 60.67
+81 A3 64 42 41 CA 42 72 AE 73 
+55.23
+Gauss average: 60.59
+81 A3 64 42 41 CA 42 72 57 84 
+57.18
+Gauss average: 60.53
+81 A3 64 42 41 CA 42 72 22 D9 
+57.43
+Gauss average: 60.49
+81 A3 64 42 41 CA 42 71 F0 CB 
+58.90
+Gauss average: 60.52
+81 A3 64 42 41 CA 42 72 13 0B 
+59.87
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3F D0 
+59.87
+Gauss average: 60.57
+81 A3 64 42 41 CA 42 72 4A 5D 
+65.98
+Gauss average: 60.73
+81 A3 64 42 41 CA 42 72 F0 4D 
+65.00
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 83 CD 
+64.76
+Gauss average: 60.93
+81 A3 64 42 41 CA 42 73 B8 80 
+66.96
+Gauss average: 61.01
+81 A3 64 42 41 CA 42 74 0C CF 
+63.78
+Gauss average: 61.09
+81 A3 64 42 41 CA 42 74 59 31 
+61.58
+Gauss average: 61.07
+81 A3 64 42 41 CA 42 74 49 5D 
+61.58
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 B0 1E 
+61.09
+Gauss average: 61.28
+81 A3 64 42 41 CA 42 75 1C 1D 
+58.41
+Gauss average: 61.26
+81 A3 64 42 41 CA 42 75 0E EF 
+58.90
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 19 79 
+56.70
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 11 8D 
+58.41
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 C2 8A 
+58.90
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 98 68 
+58.90
+Gauss average: 61.12
+81 A3 64 42 41 CA 42 74 76 27 
+61.58
+Gauss average: 61.11
+81 A3 64 42 41 CA 42 74 70 E3 
+65.49
+Gauss average: 61.18
+81 A3 64 42 41 CA 42 74 B8 02 
+65.49
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 EA 0D 
+65.25
+Gauss average: 61.28
+81 A3 64 42 41 CA 42 75 21 5E 
+62.81
+Gauss average: 61.34
+81 A3 64 42 41 CA 42 75 60 97 
+63.29
+Gauss average: 61.37
+81 A3 64 42 41 CA 42 75 7A F0 
+60.85
+Gauss average: 61.37
+81 A3 64 42 41 CA 42 75 7D 92 
+55.47
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 75 01 C2 
+56.45
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 AD 76 
+65.49
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 BF F2 
+59.38
+Gauss average: 61.13
+81 A3 64 42 41 CA 42 74 88 95 
+56.21
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 39 93 
+56.21
+Gauss average: 61.00
+81 A3 64 42 41 CA 42 73 FF A1 
+57.43
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F5 16 
+59.14
+Gauss average: 61.00
+81 A3 64 42 41 CA 42 73 FF 9D 
+58.65
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F5 13 
+61.58
+Gauss average: 61.03
+81 A3 64 42 41 CA 42 74 21 DC 
+60.12
+Gauss average: 61.00
+81 A3 64 42 41 CA 42 73 FF 9B 
+64.52
+Gauss average: 61.10
+81 A3 64 42 41 CA 42 74 63 B3 
+64.52
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 DA 44 
+63.29
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 33 D5 
+62.32
+Gauss average: 61.34
+81 A3 64 42 41 CA 42 75 60 99 
+62.56
+Gauss average: 61.35
+81 A3 64 42 41 CA 42 75 65 DD 
+58.90
+Gauss average: 61.32
+81 A3 64 42 41 CA 42 75 4B 87 
+58.65
+Gauss average: 61.26
+81 A3 64 42 41 CA 42 75 09 AB 
+67.45
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 24 03 
+66.96
+Gauss average: 61.31
+81 A3 64 42 41 CA 42 75 39 15 
+64.03
+Gauss average: 61.32
+81 A3 64 42 41 CA 42 75 48 E0 
+61.34
+Gauss average: 61.28
+81 A3 64 42 41 CA 42 75 1C 1F 
+57.67
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 D2 5F 
+55.72
+Gauss average: 61.10
+81 A3 64 42 41 CA 42 74 66 5A 
+57.43
+Gauss average: 61.03
+81 A3 64 42 41 CA 42 74 21 DD 
+57.67
+Gauss average: 61.00
+81 A3 64 42 41 CA 42 73 FF 9F 
+57.67
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 DD 61 
+62.56
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 E7 E5 
+64.27
+Gauss average: 61.03
+81 A3 64 42 41 CA 42 74 1F 34 
+64.27
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 56 89 
+65.49
+Gauss average: 61.13
+81 A3 64 42 41 CA 42 74 85 F5 
+62.32
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 D4 FD 
+65.74
+Gauss average: 61.25
+81 A3 64 42 41 CA 42 75 04 62 
+65.49
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 31 30 
+64.52
+Gauss average: 61.30
+81 A3 64 42 41 CA 42 75 36 6F 
+58.41
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 14 30 
+58.65
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 11 92 
+54.74
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 E2 24 
+54.74
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A0 50 
+54.50
+Gauss average: 61.09
+81 A3 64 42 41 CA 42 74 5B CF 
+55.23
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 E5 47 
+62.81
+Gauss average: 60.94
+81 A3 64 42 41 CA 42 73 C0 68 
+57.18
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A6 0E 
+57.18
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 8E 57 
+65.49
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 93 9F 
+62.56
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 81 2B 
+62.32
+Gauss average: 60.85
+81 A3 64 42 41 CA 42 73 69 76 
+63.54
+Gauss average: 60.91
+81 A3 64 42 41 CA 42 73 A6 11 
+58.41
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 8B B5 
+58.41
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 54 68 
+63.05
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 4F 21 
+60.85
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 83 CE 
+62.56
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 CD 93 
+62.32
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 ED 2B 
+59.87
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 E5 49 
+62.32
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 17 57 
+62.56
+Gauss average: 61.07
+81 A3 64 42 41 CA 42 74 4C 02 
+62.07
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 4E A4 
+53.76
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 D5 7A 
+66.23
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 E2 A5 
+63.78
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 D2 D6 
+62.56
+Gauss average: 60.94
+81 A3 64 42 41 CA 42 73 C0 6A 
+57.92
+Gauss average: 60.92
+81 A3 64 42 41 CA 42 73 AB 50 
+57.43
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 98 E3 
+52.54
+Gauss average: 60.82
+81 A3 64 42 41 CA 42 73 49 DC 
+57.67
+Gauss average: 60.76
+81 A3 64 42 41 CA 42 73 0D 47 
+54.99
+Gauss average: 60.64
+81 A3 64 42 41 CA 42 72 94 18 
+65.74
+Gauss average: 60.72
+81 A3 64 42 41 CA 42 72 DD DC 
+65.49
+Gauss average: 60.82
+81 A3 64 42 41 CA 42 73 4C 7C 
+66.96
+Gauss average: 60.93
+81 A3 64 42 41 CA 42 73 B5 DA 
+66.23
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 14 B0 
+62.32
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 39 95 
+64.76
+Gauss average: 61.11
+81 A3 64 42 41 CA 42 74 6E 3F 
+64.52
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A0 52 
+63.29
+Gauss average: 61.13
+81 A3 64 42 41 CA 42 74 83 58 
+57.67
+Gauss average: 61.05
+81 A3 64 42 41 CA 42 74 34 4E 
+57.18
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 E2 A5 
+52.30
+Gauss average: 60.82
+81 A3 64 42 41 CA 42 73 44 98 
+61.34
+Gauss average: 60.79
+81 A3 64 42 41 CA 42 73 2A 41 
+63.78
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 41 F8 
+63.78
+Gauss average: 60.84
+81 A3 64 42 41 CA 42 73 59 AB 
+59.87
+Gauss average: 60.82
+81 A3 64 42 41 CA 42 73 4C 81 
+64.52
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 8E 58 
+64.27
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 C8 4C 
+60.85
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F5 18 
+59.63
+Gauss average: 61.00
+81 A3 64 42 41 CA 42 74 02 40 
+60.12
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 0F 6E 
+52.54
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 CA EF 
+55.72
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 8B B8 
+57.92
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 3A 13 
+58.16
+Gauss average: 60.73
+81 A3 64 42 41 CA 42 72 EB 0B 
+59.38
+Gauss average: 60.67
+81 A3 64 42 41 CA 42 72 AB CD 
+57.18
+Gauss average: 60.61
+81 A3 64 42 41 CA 42 72 6F 39 
+56.94
+Gauss average: 60.54
+81 A3 64 42 41 CA 42 72 2A BD 
+58.65
+Gauss average: 60.52
+81 A3 64 42 41 CA 42 72 13 09 
+66.47
+Gauss average: 60.63
+81 A3 64 42 41 CA 42 72 89 91 
+59.38
+Gauss average: 60.67
+81 A3 64 42 41 CA 42 72 A9 2E 
+59.38
+Gauss average: 60.60
+81 A3 64 42 41 CA 42 72 67 51 
+61.58
+Gauss average: 60.62
+81 A3 64 42 41 CA 42 72 7F 0A 
+64.03
+Gauss average: 60.71
+81 A3 64 42 41 CA 42 72 D3 53 
+63.54
+Gauss average: 60.78
+81 A3 64 42 41 CA 42 73 22 5B 
+61.34
+Gauss average: 60.82
+81 A3 64 42 41 CA 42 73 4C 80 
+58.16
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 41 F5 
+59.63
+Gauss average: 60.82
+81 A3 64 42 41 CA 42 73 4C 7E 
+54.50
+Gauss average: 60.75
+81 A3 64 42 41 CA 42 73 00 1D 
+51.32
+Gauss average: 60.66
+81 A3 64 42 41 CA 42 72 A1 4A 
+54.99
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3A 8A 
+55.23
+Gauss average: 60.46
+81 A3 64 42 41 CA 42 71 D6 75 
+58.90
+Gauss average: 60.41
+81 A3 64 42 41 CA 42 71 A7 0A 
+64.03
+Gauss average: 60.43
+81 A3 64 42 41 CA 42 71 B9 78 
+63.54
+Gauss average: 60.44
+81 A3 64 42 41 CA 42 71 C4 03 
+64.76
+Gauss average: 60.50
+81 A3 64 42 41 CA 42 72 03 3A 
+60.61
+Gauss average: 60.52
+81 A3 64 42 41 CA 42 72 18 4E 
+60.61
+Gauss average: 60.45
+81 A3 64 42 41 CA 42 71 CE 8D 
+61.83
+Gauss average: 60.40
+81 A3 64 42 41 CA 42 71 97 3C 
+62.07
+Gauss average: 60.38
+81 A3 64 42 41 CA 42 71 82 26 
+63.54
+Gauss average: 60.40
+81 A3 64 42 41 CA 42 71 99 DD 
+63.78
+Gauss average: 60.46
+81 A3 64 42 41 CA 42 71 DB B5 
+65.00
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3F CD 
+65.49
+Gauss average: 60.65
+81 A3 64 42 41 CA 42 72 96 BF 
+63.78
+Gauss average: 60.71
+81 A3 64 42 41 CA 42 72 D8 99 
+60.36
+Gauss average: 60.74
+81 A3 64 42 41 CA 42 72 F5 97 
+58.41
+Gauss average: 60.70
+81 A3 64 42 41 CA 42 72 C8 CC 
+53.76
+Gauss average: 60.59
+81 A3 64 42 41 CA 42 72 57 85 
+58.65
+Gauss average: 60.53
+81 A3 64 42 41 CA 42 72 1A F1 
+70.14
+Gauss average: 60.58
+81 A3 64 42 41 CA 42 72 4C F9 
+66.47
+Gauss average: 60.62
+81 A3 64 42 41 CA 42 72 79 C8 
+66.23
+Gauss average: 60.62
+81 A3 64 42 41 CA 42 72 7F 07 
+59.63
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3F CD 
+59.14
+Gauss average: 60.51
+81 A3 64 42 41 CA 42 72 05 DC 
+65.49
+Gauss average: 60.58
+81 A3 64 42 41 CA 42 72 52 41 
+65.98
+Gauss average: 60.66
+81 A3 64 42 41 CA 42 72 A1 46 
+64.76
+Gauss average: 60.76
+81 A3 64 42 41 CA 42 73 0D 48 
+65.00
+Gauss average: 60.87
+81 A3 64 42 41 CA 42 73 7B E9 
+64.76
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 EA 8D 
+58.90
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 12 0F 
+59.14
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 EA 8E 
+54.74
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 D0 35 
+63.29
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 12 0F 
+63.29
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 FA 5A 
+64.27
+Gauss average: 61.01
+81 A3 64 42 41 CA 42 74 0C CD 
+65.00
+Gauss average: 61.04
+81 A3 64 42 41 CA 42 74 29 C4 
+63.29
+Gauss average: 61.04
+81 A3 64 42 41 CA 42 74 27 23 
+63.29
+Gauss average: 61.09
+81 A3 64 42 41 CA 42 74 5B D0 
+61.09
+Gauss average: 61.12
+81 A3 64 42 41 CA 42 74 78 C8 
+57.67
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 3E D5 
+57.67
+Gauss average: 61.03
+81 A3 64 42 41 CA 42 74 1C 99 
+56.45
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 DA BE 
+54.50
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 86 6E 
+54.25
+Gauss average: 60.82
+81 A3 64 42 41 CA 42 73 49 DC 
+62.56
+Gauss average: 60.82
+81 A3 64 42 41 CA 42 73 4C 7A 
+61.34
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 3F 54 
+61.58
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 3A 11 
+61.58
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 8E 5B 
+63.78
+Gauss average: 60.86
+81 A3 64 42 41 CA 42 73 74 01 
+63.54
+Gauss average: 60.86
+81 A3 64 42 41 CA 42 73 71 60 
+63.54
+Gauss average: 60.87
+81 A3 64 42 41 CA 42 73 7B EA 
+58.90
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 86 74 
+62.32
+Gauss average: 60.93
+81 A3 64 42 41 CA 42 73 BB 22 
+57.18
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 ED 30 
+56.45
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 E0 00 
+63.29
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 39 95 
+61.83
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 0F 6C 
+61.83
+Gauss average: 60.98
+81 A3 64 42 41 CA 42 73 E7 EC 
+63.54
+Gauss average: 60.94
+81 A3 64 42 41 CA 42 73 C3 09 
+62.07
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 96 46 
+62.07
+Gauss average: 60.89
+81 A3 64 42 41 CA 42 73 93 A1 
+57.18
+Gauss average: 60.81
+81 A3 64 42 41 CA 42 73 41 F6 
+56.94
+Gauss average: 60.73
+81 A3 64 42 41 CA 42 72 F0 48 
+65.00
+Gauss average: 60.75
+81 A3 64 42 41 CA 42 73 02 BA 
+65.25
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 54 67 
+65.25
+Gauss average: 60.92
+81 A3 64 42 41 CA 42 73 AB 51 
+63.78
+Gauss average: 61.04
+81 A3 64 42 41 CA 42 74 27 1E 
+54.99
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 E2 A5 
+54.74
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 81 2E 
+67.69
+Gauss average: 60.92
+81 A3 64 42 41 CA 42 73 AB 54 
+63.54
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 D2 D6 
+63.54
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 C8 4F 
+63.29
+Gauss average: 60.94
+81 A3 64 42 41 CA 42 73 BD C5 
+63.54
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 DA C0 
+63.54
+Gauss average: 61.00
+81 A3 64 42 41 CA 42 74 04 E3 
+66.47
+Gauss average: 61.07
+81 A3 64 42 41 CA 42 74 49 60 
+65.98
+Gauss average: 61.21
+81 A3 64 42 41 CA 42 74 DA 3F 
+67.20
+Gauss average: 61.33
+81 A3 64 42 41 CA 42 75 56 12 
+67.20
+Gauss average: 61.43
+81 A3 64 42 41 CA 42 75 BA 29 
+63.29
+Gauss average: 61.49
+81 A3 64 42 41 CA 42 75 F1 78 
+64.27
+Gauss average: 61.54
+81 A3 64 42 41 CA 42 76 26 26 
+65.49
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 7F B8 
+65.00
+Gauss average: 61.71
+81 A3 64 42 41 CA 42 76 D6 A6 
+67.20
+Gauss average: 61.80
+81 A3 64 42 41 CA 42 77 32 D6 
+66.72
+Gauss average: 61.80
+81 A3 64 42 41 CA 42 77 35 79 
+67.45
+Gauss average: 61.89
+81 A3 64 42 41 CA 42 77 8C 68 
+63.29
+Gauss average: 61.93
+81 A3 64 42 41 CA 42 77 B6 8D 
+63.78
+Gauss average: 61.95
+81 A3 64 42 41 CA 42 77 CE 42 
+62.56
+Gauss average: 61.94
+81 A3 64 42 41 CA 42 77 BE 73 
+63.78
+Gauss average: 61.94
+81 A3 64 42 41 CA 42 77 C1 19 
+64.27
+Gauss average: 61.97
+81 A3 64 42 41 CA 42 77 E0 B5 
+55.96
+Gauss average: 61.95
+81 A3 64 42 41 CA 42 77 C8 FC 
+59.87
+Gauss average: 61.95
+81 A3 64 42 41 CA 42 77 CB A1 
+65.98
+Gauss average: 62.07
+81 A3 64 42 41 CA 42 78 47 70 
+64.27
+Gauss average: 62.21
+81 A3 64 42 41 CA 42 78 D3 0C 
+64.76
+Gauss average: 62.31
+81 A3 64 42 41 CA 42 79 3C 69 
+65.49
+Gauss average: 62.42
+81 A3 64 42 41 CA 42 79 AB 0B 
+65.49
+Gauss average: 62.49
+81 A3 64 42 41 CA 42 79 F2 26 
+65.00
+Gauss average: 62.50
+81 A3 64 42 41 CA 42 79 FC AE 
+67.94
+Gauss average: 62.54
+81 A3 64 42 41 CA 42 7A 2C 1F 
+65.00
+Gauss average: 62.55
+81 A3 64 42 41 CA 42 7A 2E BC 
+68.18
+Gauss average: 62.63
+81 A3 64 42 41 CA 42 7A 80 65 
+59.38
+Gauss average: 62.61
+81 A3 64 42 41 CA 42 7A 73 3C 
+58.16
+Gauss average: 62.57
+81 A3 64 42 41 CA 42 7A 4B BA 
+56.45
+Gauss average: 62.51
+81 A3 64 42 41 CA 42 7A 0F 23 
+63.78
+Gauss average: 62.52
+81 A3 64 42 41 CA 42 7A 11 C1 
+52.05
+Gauss average: 62.39
+81 A3 64 42 41 CA 42 79 93 53 
+49.61
+Gauss average: 62.23
+81 A3 64 42 41 CA 42 78 ED 60 
+54.25
+Gauss average: 62.11
+81 A3 64 42 41 CA 42 78 74 33 
+61.34
+Gauss average: 62.09
+81 A3 64 42 41 CA 42 78 59 E0 
+62.07
+Gauss average: 62.11
+81 A3 64 42 41 CA 42 78 6C 4F 
+63.05
+Gauss average: 62.15
+81 A3 64 42 41 CA 42 78 9E 5A 
+60.12
+Gauss average: 62.22
+81 A3 64 42 41 CA 42 78 E2 D4 
+59.87
+Gauss average: 62.23
+81 A3 64 42 41 CA 42 78 F0 02 
+64.03
+Gauss average: 62.17
+81 A3 64 42 41 CA 42 78 AE 27 
+64.27
+Gauss average: 62.15
+81 A3 64 42 41 CA 42 78 96 74 
+60.61
+Gauss average: 62.09
+81 A3 64 42 41 CA 42 78 59 DA 
+61.58
+Gauss average: 62.11
+81 A3 64 42 41 CA 42 78 6E EF 
+63.54
+Gauss average: 62.15
+81 A3 64 42 41 CA 42 78 9E 5F 
+63.05
+Gauss average: 62.13
+81 A3 64 42 41 CA 42 78 84 06 
+63.05
+Gauss average: 62.10
+81 A3 64 42 41 CA 42 78 64 65 
+54.50
+Gauss average: 61.99
+81 A3 64 42 41 CA 42 77 F5 C3 
+63.54
+Gauss average: 61.97
+81 A3 64 42 41 CA 42 77 E5 F7 
+63.05
+Gauss average: 61.96
+81 A3 64 42 41 CA 42 77 D3 84 
+61.58
+Gauss average: 61.98
+81 A3 64 42 41 CA 42 77 F0 80 
+61.83
+Gauss average: 62.01
+81 A3 64 42 41 CA 42 78 0D 79 
+60.61
+Gauss average: 62.07
+81 A3 64 42 41 CA 42 78 4C B5 
+57.67
+Gauss average: 62.02
+81 A3 64 42 41 CA 42 78 10 1D 
+56.21
+Gauss average: 61.94
+81 A3 64 42 41 CA 42 77 C3 B8 
+55.72
+Gauss average: 61.85
+81 A3 64 42 41 CA 42 77 67 87 
+55.72
+Gauss average: 61.75
+81 A3 64 42 41 CA 42 77 03 69 
+59.38
+Gauss average: 61.71
+81 A3 64 42 41 CA 42 76 D9 48 
+61.83
+Gauss average: 61.70
+81 A3 64 42 41 CA 42 76 C9 7A 
+62.32
+Gauss average: 61.71
+81 A3 64 42 41 CA 42 76 D6 A2 
+61.83
+Gauss average: 61.75
+81 A3 64 42 41 CA 42 77 03 69 
+59.63
+Gauss average: 61.77
+81 A3 64 42 41 CA 42 77 18 7E 
+55.47
+Gauss average: 61.76
+81 A3 64 42 41 CA 42 77 0D F3 
+52.30
+Gauss average: 61.74
+81 A3 64 42 41 CA 42 76 F6 42 
+51.56
+Gauss average: 61.71
+81 A3 64 42 41 CA 42 76 D9 48 
+51.81
+Gauss average: 61.60
+81 A3 64 42 41 CA 42 76 65 5E 
+51.56
+Gauss average: 61.50
+81 A3 64 42 41 CA 42 75 FC 02 
+52.79
+Gauss average: 61.40
+81 A3 64 42 41 CA 42 75 9D 2C 
+65.98
+Gauss average: 61.45
+81 A3 64 42 41 CA 42 75 CC 9D 
+63.78
+Gauss average: 61.45
+81 A3 64 42 41 CA 42 75 CC 97 
+64.27
+Gauss average: 61.46
+81 A3 64 42 41 CA 42 75 D4 7C 
+66.96
+Gauss average: 61.49
+81 A3 64 42 41 CA 42 75 F9 63 
+61.83
+Gauss average: 61.52
+81 A3 64 42 41 CA 42 76 18 FD 
+61.58
+Gauss average: 61.52
+81 A3 64 42 41 CA 42 76 11 13 
+55.96
+Gauss average: 61.50
+81 A3 64 42 41 CA 42 76 03 E4 
+57.18
+Gauss average: 61.51
+81 A3 64 42 41 CA 42 76 0B D5 
+57.18
+Gauss average: 61.45
+81 A3 64 42 41 CA 42 75 C9 F9 
+65.98
+Gauss average: 61.49
+81 A3 64 42 41 CA 42 75 F6 C1 
+63.78
+Gauss average: 61.51
+81 A3 64 42 41 CA 42 76 0B D2 
+64.27
+Gauss average: 61.52
+81 A3 64 42 41 CA 42 76 13 B8 
+64.27
+Gauss average: 61.54
+81 A3 64 42 41 CA 42 76 2B 6A 
+63.78
+Gauss average: 61.56
+81 A3 64 42 41 CA 42 76 3D DC 
+57.18
+Gauss average: 61.56
+81 A3 64 42 41 CA 42 76 3D D8 
+57.43
+Gauss average: 61.57
+81 A3 64 42 41 CA 42 76 43 22 
+66.47
+Gauss average: 61.58
+81 A3 64 42 41 CA 42 76 52 ED 
+60.12
+Gauss average: 61.53
+81 A3 64 42 41 CA 42 76 1B 9C 
+59.63
+Gauss average: 61.47
+81 A3 64 42 41 CA 42 75 DF 09 
+62.32
+Gauss average: 61.45
+81 A3 64 42 41 CA 42 75 CF 36 
+63.54
+Gauss average: 61.54
+81 A3 64 42 41 CA 42 76 2B 68 
+62.81
+Gauss average: 61.63
+81 A3 64 42 41 CA 42 76 82 57 
+61.83
+Gauss average: 61.57
+81 A3 64 42 41 CA 42 76 43 25 
+60.61
+Gauss average: 61.53
+81 A3 64 42 41 CA 42 76 23 83 
+62.56
+Gauss average: 61.52
+81 A3 64 42 41 CA 42 76 18 F7 
+62.07
+Gauss average: 61.51
+81 A3 64 42 41 CA 42 76 0B CC 
+57.92
+Gauss average: 61.45
+81 A3 64 42 41 CA 42 75 CF 3E 
+56.45
+Gauss average: 61.38
+81 A3 64 42 41 CA 42 75 82 D6 
+59.87
+Gauss average: 61.31
+81 A3 64 42 41 CA 42 75 3B B8 
+59.87
+Gauss average: 61.24
+81 A3 64 42 41 CA 42 74 F9 DD 
+62.32
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 C5 2F 
+60.36
+Gauss average: 61.12
+81 A3 64 42 41 CA 42 74 7B 6A 
+60.85
+Gauss average: 61.09
+81 A3 64 42 41 CA 42 74 61 17 
+64.27
+Gauss average: 61.09
+81 A3 64 42 41 CA 42 74 61 16 
+60.12
+Gauss average: 61.04
+81 A3 64 42 41 CA 42 74 27 23 
+60.12
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F2 71 
+64.27
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 D2 D8 
+61.34
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 98 E3 
+62.81
+Gauss average: 60.85
+81 A3 64 42 41 CA 42 73 66 D4 
+62.81
+Gauss average: 60.85
+81 A3 64 42 41 CA 42 73 61 94 
+62.56
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 54 68 
+54.99
+Gauss average: 60.75
+81 A3 64 42 41 CA 42 73 02 BE 
+54.99
+Gauss average: 60.66
+81 A3 64 42 41 CA 42 72 A3 E9 
+54.74
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3D 34 
+59.87
+Gauss average: 60.60
+81 A3 64 42 41 CA 42 72 67 52 
+56.70
+Gauss average: 60.57
+81 A3 64 42 41 CA 42 72 45 12 
+59.87
+Gauss average: 60.50
+81 A3 64 42 41 CA 42 72 03 3C 
+59.87
+Gauss average: 60.46
+81 A3 64 42 41 CA 42 71 D3 D0 
+63.29
+Gauss average: 60.44
+81 A3 64 42 41 CA 42 71 C4 02 
+63.05
+Gauss average: 60.42
+81 A3 64 42 41 CA 42 71 A9 A8 
+62.32
+Gauss average: 60.38
+81 A3 64 42 41 CA 42 71 87 70 
+61.34
+Gauss average: 60.34
+81 A3 64 42 41 CA 42 71 5F EA 
+62.07
+Gauss average: 60.28
+81 A3 64 42 41 CA 42 71 20 B3 
+62.07
+Gauss average: 60.25
+81 A3 64 42 41 CA 42 71 01 17 
+62.07
+Gauss average: 60.19
+81 A3 64 42 41 CA 42 70 BF 38 
+60.85
+Gauss average: 60.20
+81 A3 64 42 41 CA 42 70 CF 0A 
+64.76
+Gauss average: 60.27
+81 A3 64 42 41 CA 42 71 16 26 
+63.54
+Gauss average: 60.35
+81 A3 64 42 41 CA 42 71 62 8B 
+63.54
+Gauss average: 60.34
+81 A3 64 42 41 CA 42 71 5F E7 
+63.78
+Gauss average: 60.47
+81 A3 64 42 41 CA 42 71 DE 56 
+59.38
+Gauss average: 60.57
+81 A3 64 42 41 CA 42 72 47 B7 
+63.05
+Gauss average: 60.66
+81 A3 64 42 41 CA 42 72 A6 8A 
+62.81
+Gauss average: 60.68
+81 A3 64 42 41 CA 42 72 B6 5A 
+60.36
+Gauss average: 60.66
+81 A3 64 42 41 CA 42 72 A3 E7 
+59.14
+Gauss average: 60.62
+81 A3 64 42 41 CA 42 72 79 C5 
+54.74
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3F D0 
+54.99
+Gauss average: 60.51
+81 A3 64 42 41 CA 42 72 0B 25 
+52.30
+Gauss average: 60.39
+81 A3 64 42 41 CA 42 71 8C B1 
+56.45
+Gauss average: 60.31
+81 A3 64 42 41 CA 42 71 38 68 
+57.18
+Gauss average: 60.27
+81 A3 64 42 41 CA 42 71 13 87 
+55.23
+Gauss average: 60.20
+81 A3 64 42 41 CA 42 70 CF 09 
+60.61
+Gauss average: 60.17
+81 A3 64 42 41 CA 42 70 AF 6A 
+60.61
+Gauss average: 60.15
+81 A3 64 42 41 CA 42 70 95 15 
+66.23
+Gauss average: 60.18
+81 A3 64 42 41 CA 42 70 B7 54 
+64.27
+Gauss average: 60.28
+81 A3 64 42 41 CA 42 71 20 AF 
+59.87
+Gauss average: 60.24
+81 A3 64 42 41 CA 42 70 F9 2F 
+60.12
+Gauss average: 60.21
+81 A3 64 42 41 CA 42 70 D9 96 
+62.07
+Gauss average: 60.22
+81 A3 64 42 41 CA 42 70 DE D6 
+67.20
+Gauss average: 60.27
+81 A3 64 42 41 CA 42 71 18 CA 
+66.72
+Gauss average: 60.34
+81 A3 64 42 41 CA 42 71 5A A5 
+58.41
+Gauss average: 60.35
+81 A3 64 42 41 CA 42 71 62 89 
+63.05
+Gauss average: 60.42
+81 A3 64 42 41 CA 42 71 AC 4E 
+63.54
+Gauss average: 60.50
+81 A3 64 42 41 CA 42 72 00 9A 
+62.07
+Gauss average: 60.57
+81 A3 64 42 41 CA 42 72 45 19 
+61.58
+Gauss average: 60.59
+81 A3 64 42 41 CA 42 72 5C CC 
+60.36
+Gauss average: 60.58
+81 A3 64 42 41 CA 42 72 4C FE 
+60.36
+Gauss average: 60.55
+81 A3 64 42 41 CA 42 72 37 EB 
+59.38
+Gauss average: 60.53
+81 A3 64 42 41 CA 42 72 1D 92 
+56.45
+Gauss average: 60.50
+81 A3 64 42 41 CA 42 71 FB 52 
+56.45
+Gauss average: 60.51
+81 A3 64 42 41 CA 42 72 05 E0 
+57.67
+Gauss average: 60.56
+81 A3 64 42 41 CA 42 72 3F D3 
+65.49
+Gauss average: 60.71
+81 A3 64 42 41 CA 42 72 D5 F7 
+64.27
+Gauss average: 60.84
+81 A3 64 42 41 CA 42 73 5C 49 
+63.05
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 D8 1E 
+53.27
+Gauss average: 60.97
+81 A3 64 42 41 CA 42 73 DD 63 
+56.45
+Gauss average: 60.87
+81 A3 64 42 41 CA 42 73 76 A6 
+56.45
+Gauss average: 60.79
+81 A3 64 42 41 CA 42 73 27 A0 
+68.43
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 54 68 
+60.36
+Gauss average: 60.76
+81 A3 64 42 41 CA 42 73 0D 45 
+60.36
+Gauss average: 60.75
+81 A3 64 42 41 CA 42 72 FD 7A 
+69.16
+Gauss average: 60.83
+81 A3 64 42 41 CA 42 73 4F 21 
+68.91
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 DA C1 
+62.56
+Gauss average: 61.02
+81 A3 64 42 41 CA 42 74 14 B2 
+62.56
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 4E A6 
+58.16
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 FA 5B 
+59.63
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 CD 96 
+59.38
+Gauss average: 60.90
+81 A3 64 42 41 CA 42 73 98 E7 
+62.07
+Gauss average: 60.88
+81 A3 64 42 41 CA 42 73 81 30 
+61.58
+Gauss average: 60.85
+81 A3 64 42 41 CA 42 73 69 7B 
+58.90
+Gauss average: 60.87
+81 A3 64 42 41 CA 42 73 7B EB 
+65.98
+Gauss average: 60.96
+81 A3 64 42 41 CA 42 73 D8 1C 
+65.00
+Gauss average: 60.95
+81 A3 64 42 41 CA 42 73 C8 4A 
+64.27
+Gauss average: 60.99
+81 A3 64 42 41 CA 42 73 F5 13 
+63.29
+Gauss average: 61.03
+81 A3 64 42 41 CA 42 74 1C 98 
+66.72
+Gauss average: 61.07
+81 A3 64 42 41 CA 42 74 4C 05 
+62.07
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 3C 35 
+62.81
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 3C 37 
+60.85
+Gauss average: 61.05
+81 A3 64 42 41 CA 42 74 31 AB 
+62.32
+Gauss average: 61.07
+81 A3 64 42 41 CA 42 74 44 19 
+62.32
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 41 79 
+60.12
+Gauss average: 61.04
+81 A3 64 42 41 CA 42 74 2C 65 
+61.83
+Gauss average: 61.08
+81 A3 64 42 41 CA 42 74 56 8B 
+64.03
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A8 34 
+63.29
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 CD 14 
+61.58
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 DF 86 
+62.32
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 DF 88 
+62.32
+Gauss average: 61.24
+81 A3 64 42 41 CA 42 74 F4 9A 
+60.85
+Gauss average: 61.24
+81 A3 64 42 41 CA 42 74 F4 9A 
+62.56
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 E2 2E 
+64.27
+Gauss average: 61.26
+81 A3 64 42 41 CA 42 75 0E F5 
+60.85
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 16 D4 
+59.87
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 E7 70 
+58.65
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 CA 74 
+61.83
+Gauss average: 61.19
+81 A3 64 42 41 CA 42 74 BF E8 
+57.18
+Gauss average: 61.13
+81 A3 64 42 41 CA 42 74 83 50 
+59.87
+Gauss average: 61.10
+81 A3 64 42 41 CA 42 74 66 5B 
+60.12
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 9D AB 
+62.32
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 EC B7 
+63.29
+Gauss average: 61.32
+81 A3 64 42 41 CA 42 75 48 E3 
+58.90
+Gauss average: 61.31
+81 A3 64 42 41 CA 42 75 3E 5C 
+59.14
+Gauss average: 61.34
+81 A3 64 42 41 CA 42 75 58 AD 
+64.03
+Gauss average: 61.38
+81 A3 64 42 41 CA 42 75 85 76 
+66.23
+Gauss average: 61.45
+81 A3 64 42 41 CA 42 75 C9 F3 
+62.81
+Gauss average: 61.44
+81 A3 64 42 41 CA 42 75 C4 AF 
+62.32
+Gauss average: 61.43
+81 A3 64 42 41 CA 42 75 BC CB 
+63.05
+Gauss average: 61.44
+81 A3 64 42 41 CA 42 75 C4 B1 
+63.05
+Gauss average: 61.46
+81 A3 64 42 41 CA 42 75 D7 21 
+63.05
+Gauss average: 61.47
+81 A3 64 42 41 CA 42 75 E1 AA 
+60.85
+Gauss average: 61.46
+81 A3 64 42 41 CA 42 75 D4 80 
+59.63
+Gauss average: 61.43
+81 A3 64 42 41 CA 42 75 BA 25 
+59.63
+Gauss average: 61.42
+81 A3 64 42 41 CA 42 75 AC FA 
+60.61
+Gauss average: 61.38
+81 A3 64 42 41 CA 42 75 80 32 
+62.56
+Gauss average: 61.36
+81 A3 64 42 41 CA 42 75 75 AD 
+63.05
+Gauss average: 61.36
+81 A3 64 42 41 CA 42 75 70 65 
+59.38
+Gauss average: 61.31
+81 A3 64 42 41 CA 42 75 40 FD 
+59.14
+Gauss average: 61.31
+81 A3 64 42 41 CA 42 75 3E 59 
+59.87
+Gauss average: 61.28
+81 A3 64 42 41 CA 42 75 1C 1C 
+61.09
+Gauss average: 61.26
+81 A3 64 42 41 CA 42 75 09 AB 
+62.56
+Gauss average: 61.28
+81 A3 64 42 41 CA 42 75 21 5B 
+63.05
+Gauss average: 61.32
+81 A3 64 42 41 CA 42 75 4B 85 
+62.56
+Gauss average: 61.41
+81 A3 64 42 41 CA 42 75 9F D3 
+65.00
+Gauss average: 61.51
+81 A3 64 42 41 CA 42 76 0B CF 
+62.81
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 7D 11 
+62.81
+Gauss average: 61.69
+81 A3 64 42 41 CA 42 76 C1 96 
+61.09
+Gauss average: 61.73
+81 A3 64 42 41 CA 42 76 EB B5 
+62.56
+Gauss average: 61.81
+81 A3 64 42 41 CA 42 77 3A BE 
+62.32
+Gauss average: 61.83
+81 A3 64 42 41 CA 42 77 4D 2F 
+62.56
+Gauss average: 61.85
+81 A3 64 42 41 CA 42 77 62 3F 
+63.78
+Gauss average: 61.82
+81 A3 64 42 41 CA 42 77 47 EC 
+50.10
+Gauss average: 61.67
+81 A3 64 42 41 CA 42 76 AF 24 
+50.10
+Gauss average: 61.57
+81 A3 64 42 41 CA 42 76 45 C8 
+62.32
+Gauss average: 61.59
+81 A3 64 42 41 CA 42 76 5D 79 
+65.00
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 7D 17 
+65.49
+Gauss average: 61.60
+81 A3 64 42 41 CA 42 76 6A A5 
+61.83
+Gauss average: 61.55
+81 A3 64 42 41 CA 42 76 35 F6 
+59.87
+Gauss average: 61.57
+81 A3 64 42 41 CA 42 76 45 C4 
+64.27
+Gauss average: 61.58
+81 A3 64 42 41 CA 42 76 52 F0 
+64.76
+Gauss average: 61.59
+81 A3 64 42 41 CA 42 76 60 1A 
+68.91
+Gauss average: 61.67
+81 A3 64 42 41 CA 42 76 A9 E1 
+62.56
+Gauss average: 61.68
+81 A3 64 42 41 CA 42 76 B4 62 
+62.56
+Gauss average: 61.70
+81 A3 64 42 41 CA 42 76 CC 1A 
+58.65
+Gauss average: 61.68
+81 A3 64 42 41 CA 42 76 B9 A8 
+63.29
+Gauss average: 61.72
+81 A3 64 42 41 CA 42 76 E3 CE 
+59.87
+Gauss average: 61.76
+81 A3 64 42 41 CA 42 77 08 B0 
+60.85
+Gauss average: 61.80
+81 A3 64 42 41 CA 42 77 38 1B 
+63.05
+Gauss average: 61.86
+81 A3 64 42 41 CA 42 77 72 0C 
+54.99
+Gauss average: 61.75
+81 A3 64 42 41 CA 42 77 00 C8 
+54.99
+Gauss average: 61.65
+81 A3 64 42 41 CA 42 76 9C B1 
+61.83
+Gauss average: 61.64
+81 A3 64 42 41 CA 42 76 8F 86 
+57.92
+Gauss average: 61.69
+81 A3 64 42 41 CA 42 76 C1 8F 
+57.67
+Gauss average: 61.70
+81 A3 64 42 41 CA 42 76 CE BE 
+56.70
+Gauss average: 61.70
+81 A3 64 42 41 CA 42 76 D1 62 
+67.20
+Gauss average: 61.69
+81 A3 64 42 41 CA 42 76 C4 34 
+58.90
+Gauss average: 61.68
+81 A3 64 42 41 CA 42 76 B4 63 
+58.90
+Gauss average: 61.66
+81 A3 64 42 41 CA 42 76 A4 9C 
+65.49
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 7D 17 
+65.25
+Gauss average: 61.58
+81 A3 64 42 41 CA 42 76 55 91 
+65.25
+Gauss average: 61.61
+81 A3 64 42 41 CA 42 76 72 8B 
+63.05
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 77 D0 
+59.87
+Gauss average: 61.64
+81 A3 64 42 41 CA 42 76 8A 41 
+59.87
+Gauss average: 61.64
+81 A3 64 42 41 CA 42 76 8C E4 
+60.61
+Gauss average: 61.65
+81 A3 64 42 41 CA 42 76 9A 10 
+61.09
+Gauss average: 61.64
+81 A3 64 42 41 CA 42 76 8F 88 
+59.87
+Gauss average: 61.62
+81 A3 64 42 41 CA 42 76 7D 18 
+60.12
+Gauss average: 61.64
+81 A3 64 42 41 CA 42 76 8A 43 
+61.34
+Gauss average: 61.59
+81 A3 64 42 41 CA 42 76 58 33 
+59.87
+Gauss average: 61.53
+81 A3 64 42 41 CA 42 76 20 E5 
+60.36
+Gauss average: 61.49
+81 A3 64 42 41 CA 42 75 F6 BD 
+61.83
+Gauss average: 61.48
+81 A3 64 42 41 CA 42 75 E6 F1 
+58.16
+Gauss average: 61.39
+81 A3 64 42 41 CA 42 75 8A BF 
+58.16
+Gauss average: 61.34
+81 A3 64 42 41 CA 42 75 60 96 
+63.29
+Gauss average: 61.35
+81 A3 64 42 41 CA 42 75 65 DB 
+59.63
+Gauss average: 61.34
+81 A3 64 42 41 CA 42 75 58 B4 
+62.07
+Gauss average: 61.33
+81 A3 64 42 41 CA 42 75 56 14 
+61.58
+Gauss average: 61.33
+81 A3 64 42 41 CA 42 75 4E 24 
+60.36
+Gauss average: 61.33
+81 A3 64 42 41 CA 42 75 50 CA 
+58.16
+Gauss average: 61.29
+81 A3 64 42 41 CA 42 75 29 4B 
+55.72
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 CF B5 
+59.38
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A5 8E 
+62.56
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 B0 1A 
+61.58
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A8 34 
+64.27
+Gauss average: 61.18
+81 A3 64 42 41 CA 42 74 BD 45 
+65.25
+Gauss average: 61.23
+81 A3 64 42 41 CA 42 74 EC B1 
+59.87
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 CF B6 
+59.63
+Gauss average: 61.15
+81 A3 64 42 41 CA 42 74 9D AB 
+62.81
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 B2 BB 
+58.90
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A8 33 
+58.16
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A2 F4 
+65.25
+Gauss average: 61.20
+81 A3 64 42 41 CA 42 74 C7 D3 
+64.52
+Gauss average: 61.27
+81 A3 64 42 41 CA 42 75 16 D7 
+54.74
+Gauss average: 61.22
+81 A3 64 42 41 CA 42 74 DF 86 
+54.74
+Gauss average: 61.16
+81 A3 64 42 41 CA 42 74 A5 96 
+53.03
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 41 76 
+63.29
+Gauss average: 61.06
+81 A3 64 42 41 CA 42 74 41 79 
+62.32
+Gauss average: 61.10
+81 A3 64 42 41 CA 42 74 66 5D 
+65.49
+Gauss average: 61.17
+81 A3 64 42 41 CA 42 74 AA DA 
+59.63
+Gauss average: 61.12
+81 A3 64 42 41 CA 42 74 7B 70 
+60.36
+Gauss average: 61.06
