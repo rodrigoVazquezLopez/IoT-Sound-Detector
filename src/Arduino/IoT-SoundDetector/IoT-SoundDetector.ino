@@ -18,13 +18,15 @@
 
 #define MINUTE_SAMPLES 60
 #define SLOW_SAMPLES 8
+#define DATA_SAMPLES 3
 
 enum states
 {
     IDLE,
     SLOW_SAMP,
     MINUTE_SAMP,
-    GAUSS,
+    GAUSS_AVG,
+    AVG,
     SEND
 };
 
@@ -53,8 +55,9 @@ byte dbAcolors[21][4] = {
 };
 
 byte msgPackbuffer[32];
-float dbA;
-int actualState = IDLE, nextState = IDLE, slowSampCnt = 0, sampCnt = 0; 
+float instantantdBA, averagedBA;
+float minuteData[DATA_SAMPLES];
+int actualState = IDLE, nextState = IDLE, slowSampCnt = 0, sampCnt = 0, dataCnt = 0;
 byte nodeDirection[] = "1Node";
 char sonometerID[] = "0001";
 
@@ -73,7 +76,7 @@ void setup()
     radio.openReadingPipe(1, nodeDirection);
     radio.openWritingPipe(nodeDirection);
     radio.setRetries(15, 15);
-    radio.setPALevel(RF24_PA_LOW);
+    radio.setPALevel(RF24_PA_LOW, true);
     radio.printDetails();
     analogWrite(led_red, 102);
     analogWrite(led_green, 0);
@@ -87,17 +90,18 @@ void loop()
     case IDLE:
         sampCnt = 0;
         slowSampCnt = 0;
+        dataCnt = 0;
         nextState = SLOW_SAMP;
         break;
 
     case SLOW_SAMP:
         delay(125);
-        dbA = readDBA();
+        instantantdBA = readDBA();
         slowSampCnt++;
-        //Serial.print(dbA);
-        //Serial.print(",");
-        slowAverage.add(dbA);
-        if(slowSampCnt < SLOW_SAMPLES)
+        // Serial.print(dbA);
+        // Serial.print(",");
+        slowAverage.add(instantantdBA);
+        if (slowSampCnt < SLOW_SAMPLES)
             nextState = SLOW_SAMP;
         else
             nextState = MINUTE_SAMP;
@@ -107,31 +111,53 @@ void loop()
         sampCnt++;
         slowSampCnt = 0;
         slowAverage.process();
-        //Serial.println();
+        // Serial.println();
         Serial.print(slowAverage.mean);
         Serial.print(",");
         turnRGB_LED(slowAverage.mean);
         myAverage.add(slowAverage.mean);
-        if(sampCnt < MINUTE_SAMPLES)
+        if (sampCnt < MINUTE_SAMPLES)
             nextState = SLOW_SAMP;
         else
-            nextState = GAUSS;
+            nextState = GAUSS_AVG;
         break;
 
-    case GAUSS:
+    case GAUSS_AVG:
+        sampCnt = 0;
         myAverage.process();
+        Serial.println();
+        Serial.print("Gauss average: ");
+        Serial.println(myAverage.mean);
+        minuteData[dataCnt] = myAverage.mean;
+        dataCnt++;
+        if (dataCnt < DATA_SAMPLES)
+            nextState = SLOW_SAMP;
+        else
+            nextState = AVG;
+        break;
+
+    case AVG:
+        averagedBA = 0;
+        for (int i = 0; i < DATA_SAMPLES; i++)
+        {
+            averagedBA += minuteData[i];
+            //Serial.print(minuteData[i]);
+            //Serial.print(",");
+        }
+        averagedBA = averagedBA / DATA_SAMPLES;
         nextState = SEND;
         break;
 
     case SEND:
         Serial.println();
-        Serial.print("Gauss average: ");
-        Serial.println(myAverage.mean);
+        Serial.print("Average: ");
+        Serial.println(averagedBA);
         msgdata.beginMap();
         msgdata.addString("Id:", sonometerID);
-        msgdata.addFloat("dBA", myAverage.mean);
-        turnRGB_LED(myAverage.mean);
-        msgdata.printRawData();
+        msgdata.addFloat("dBA", averagedBA);
+        // turnRGB_LED(myAverage.mean);
+        //msgdata.printRawData();
+        Serial.println("Sending data");
         radio.write(&msgPackbuffer, 32);
         nextState = IDLE;
         break;
